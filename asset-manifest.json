@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/word-counter/static/css/main.34de6062.chunk.css",
-    "main.js": "/word-counter/static/js/main.e8ee95df.chunk.js",
-    "main.js.map": "/word-counter/static/js/main.e8ee95df.chunk.js.map",
-    "runtime-main.js": "/word-counter/static/js/runtime-main.46425581.js",
-    "runtime-main.js.map": "/word-counter/static/js/runtime-main.46425581.js.map",
-    "static/js/2.a6d1271b.chunk.js": "/word-counter/static/js/2.a6d1271b.chunk.js",
-    "static/js/2.a6d1271b.chunk.js.map": "/word-counter/static/js/2.a6d1271b.chunk.js.map",
-    "index.html": "/word-counter/index.html",
-    "precache-manifest.a2e41cc95f78f2ee87fba083b36e2d77.js": "/word-counter/precache-manifest.a2e41cc95f78f2ee87fba083b36e2d77.js",
-    "service-worker.js": "/word-counter/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/word-counter/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/word-counter-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/word-counter-app/static/js/main.a3dfaf2e.chunk.js",
+    "main.js.map": "/word-counter-app/static/js/main.a3dfaf2e.chunk.js.map",
+    "runtime-main.js": "/word-counter-app/static/js/runtime-main.b741d9ea.js",
+    "runtime-main.js.map": "/word-counter-app/static/js/runtime-main.b741d9ea.js.map",
+    "static/js/2.a6d1271b.chunk.js": "/word-counter-app/static/js/2.a6d1271b.chunk.js",
+    "static/js/2.a6d1271b.chunk.js.map": "/word-counter-app/static/js/2.a6d1271b.chunk.js.map",
+    "index.html": "/word-counter-app/index.html",
+    "precache-manifest.bb7af1af52ee01afd48db55f165e9eaa.js": "/word-counter-app/precache-manifest.bb7af1af52ee01afd48db55f165e9eaa.js",
+    "service-worker.js": "/word-counter-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/word-counter-app/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.46425581.js",
+    "static/js/runtime-main.b741d9ea.js",
     "static/js/2.a6d1271b.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.e8ee95df.chunk.js"
+    "static/js/main.a3dfaf2e.chunk.js"
   ]
 }
